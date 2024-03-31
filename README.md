@@ -19,6 +19,7 @@
 <img width="1440" alt="image" src="https://github.com/diyaz111/AddressBook/assets/97149637/59856818-96ad-486d-9501-d5eef4c82a6f">
 
 <h2>This is Front end use vue datatable</h2>
-<img width="1439" alt="image" src="https://github.com/diyaz111/AddressBook/assets/97149637/22dd4b05-9eaf-4fb5-aac2-f2f2de9538e4">
+<img width="1294" alt="image" src="https://github.com/diyaz111/AddressBook/assets/97149637/36e1c6a7-4237-4447-af0d-83d173d19c7f">
+
 
 
