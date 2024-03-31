@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h5 class="card-title">VueJS Datatables</h5>
+                        <h5 class="card-title">Data User</h5>
                     </div>
                     <div class="card-body">
                         <app-datatable
@@ -62,7 +62,7 @@ export default {
                     per_page: this.per_page,
                     q: this.search,
                     sortby: this.sortBy,
-                    sortbydesc: this.sortByDesc ? 'DESC':'ASC'
+                    sortbydesc: 'DESC'
                 }
             })
             .then((response) => {
